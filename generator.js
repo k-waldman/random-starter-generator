@@ -14,4 +14,4 @@ generateStarter = () => {
     return 'Your new starter pokemon is ' + currentStarter + '! ' + 'Your cute little ' + currentStarter + "'s nature is " + currentNature + '. Your ' + currentGender + ' PokeBaby has a great ' + currentIV + ' stat!';
 }
 
-console.log(generateStarter()); // outputs random text to user
+console.log(generateStarter()); // outputs random text
